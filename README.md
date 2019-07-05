@@ -1,4 +1,5 @@
 # React example with static pages
+[https://gitlab.com/tdat2003/react-static-pages](https://gitlab.com/tdat2003/react-static-pages)
 
 ## Prerequisites
 * Flow and Prettier installed globally:
@@ -9,8 +10,8 @@ npm install -g flow-bin prettier
 
 ## Fetch, install dependencies, and run
 ```sh
-git clone https://gitlab.com/tdat2003/react-static-pages
-cd react-static-pages
+git clone https://github.com/janmarius/Assignment-9-Static-Sites-with-React.git
+cd Assignment-9-Static-Sites-with-React
 npm install
 npm start
 ```
